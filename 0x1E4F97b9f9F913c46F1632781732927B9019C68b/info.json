@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Curve is an exchange liquidity pool on Ethereum (like Uniswap) designed for (1) extremely efficient stablecoin trading (2) low risk, supplemental fee income for liquidity providers, without an opportunity cost."
+  },
+  "id": "485afa8a-0676-4610-88d1-357786445a6c",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+    "website": "https://www.curve.fi/",
+    "github": "https://github.com/curvefi",
+    "twitter": "https://twitter.com/CurveFinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/curve-dao-token//",
+    "whitepaper": "https://curve.fi/whitepaper"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0x1E4F97b9f9F913c46F1632781732927B9019C68b/logo.png"
+  },
+  "name": "Curve DAO",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "CRV",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

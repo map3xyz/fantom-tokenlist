@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "MIM is a stablecoin backed by interest bearing collateral"
+  },
+  "id": "6d6b7083-d7bc-41bd-af9e-69f7ee57f01a",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0x82f0b8b456c1a451378467398982d4834b6829c1",
+    "website": "https://abracadabra.money/",
+    "github": "https://github.com/Abracadabra-money/magic-internet-money",
+    "twitter": "https://twitter.com/MIM_Spell",
+    "medium": "https://abracadabramoney.medium.com/",
+    "coingecko": "https://coingecko.com/coins/magic-internet-money/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0x82f0B8B456c1A451378467398982d4834b6829c1/logo.png"
+  },
+  "name": "Magic Internet Money",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "MIM",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

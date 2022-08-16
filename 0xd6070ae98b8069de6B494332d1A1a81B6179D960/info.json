@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Multichain Yield Optimizer"
+  },
+  "id": "b66e0df3-e37a-48f3-91b4-7352ae0021b7",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0xd6070ae98b8069de6b494332d1a1a81b6179d960",
+    "website": "https://beefy.finance/",
+    "github": "https://github.com/beefyfinance",
+    "twitter": "https://twitter.com/beefyfinance",
+    "telegram": "https://t.me/beefyannouncement",
+    "coingecko": "https://coingecko.com/en/coins/beefy-finance/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/beefy-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0xd6070ae98b8069de6B494332d1A1a81B6179D960/logo.png"
+  },
+  "name": "beefy.finance",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "BIFI",
+  "tags": [
+    "defi",
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

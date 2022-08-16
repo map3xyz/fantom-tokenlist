@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Synthetix Network Token (SNX) is the native token of Synthetix, a synthetic asset (Synth) issuance protocol built on Ethereum. The SNX token is used as collateral to issue Synths, ERC-20 tokens that track the price of assets like Gold, Silver, Oil and Bitcoin."
+  },
+  "id": "6255ed94-5e74-4814-ba64-7a99bfdedc04",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+    "website": "https://www.synthetix.io/",
+    "github": "https://github.com/synthetixio",
+    "twitter": "https://twitter.com/synthetix_io",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/synthetix-network-token/",
+    "coingecko": "https://coingecko.com/coins/havven/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc/logo.png"
+  },
+  "name": "Synthetix Network",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "SNX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

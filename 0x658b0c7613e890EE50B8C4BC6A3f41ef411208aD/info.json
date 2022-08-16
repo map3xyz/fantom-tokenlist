@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "fETH (ETH FETH) is a token issued by Binance on Smart Chain; its price is pegged to Ethereum (ETH) at a ratio of 1:1."
+  },
+  "id": "e694a656-9d09-4856-8fab-1377935f8268",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0x658b0c7613e890ee50b8c4bc6a3f41ef411208ad",
+    "website": "https://fantom.foundation/defi/",
+    "telegram": "https://t.me/Fantom_English",
+    "twitter": "https://twitter.com/FantomFDN",
+    "medium": "https://medium.com/fantomfoundation",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ethereum/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD/logo.png"
+  },
+  "name": "fETH",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "FETH",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

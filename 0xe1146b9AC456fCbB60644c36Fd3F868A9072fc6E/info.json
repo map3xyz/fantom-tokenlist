@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Bitcoin FTM (FBTC) is a token on Binance Chain issued by Binance, where the price is pegged to BTC at a rate of 1 FTCB = 1 BTC."
+  },
+  "id": "6eb5bbdb-e60d-4661-8137-1bfcb385dffa",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0xe1146b9ac456fcbb60644c36fd3f868a9072fc6e",
+    "website": "https://fantom.foundation/defi/",
+    "telegram": "https://t.me/Fantom_English",
+    "twitter": "https://twitter.com/FantomFDN",
+    "medium": "https://medium.com/fantomfoundation",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/bitcoin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E/logo.png"
+  },
+  "name": "fBTC",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "FBTC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments."
+  },
+  "id": "7b00224d-5f2f-40b1-9b32-207faa51449d",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+    "website": "https://chain.link/",
+    "telegram": "https://t.me/chainlinkofficial",
+    "twitter": "https://twitter.com/chainlink",
+    "blog": "https://blog.chain.link/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/chainlink/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8/logo.png"
+  },
+  "name": "ChainLink",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "LINK",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

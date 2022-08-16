@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Frax is a fractional-algorithmic stablecoin protocol. It aims to provide highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC."
+  },
+  "id": "e247e14d-bc6c-4ed1-a4c4-fccb983b0102",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
+    "website": "https://frax.finance/",
+    "github": "https://github.com/fraxfinance/frax-solidity",
+    "twitter": "https://twitter.com/fraxfinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/frax/",
+    "whitepaper": "https://docs.frax.finance/overview"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355/logo.png"
+  },
+  "name": "Frax",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "FRAX",
+  "tags": [
+    "defi",
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

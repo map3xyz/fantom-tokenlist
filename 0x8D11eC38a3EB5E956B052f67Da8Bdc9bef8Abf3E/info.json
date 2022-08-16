@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants."
+  },
+  "id": "a34d2d53-98fd-46d1-8250-48731270d6eb",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+    "research": "https://research.binance.com/en/projects/dai",
+    "website": "http://makerdao.com",
+    "twitter": "https://twitter.com/MakerDAO",
+    "reddit": "https://reddit.com/r/MakerDAO/",
+    "blog": "https://blog.makerdao.com/",
+    "whitepaper": "https://makerdao.com/whitepaper/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/multi-collateral-dai/",
+    "coingecko": "https://coingecko.com/en/coins/dai/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png"
+  },
+  "name": "Dai Stablecoin",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "DAI",
+  "tags": [
+    "defi",
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

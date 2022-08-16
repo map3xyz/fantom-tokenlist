@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xbBD7B847C6d0d0B5691518a363194D71426475F1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Virtual token that allows unclaimed rewards from EverRise Staking NFTs and its Vote Escrowed (ve) EverRise to display in wallet balances."
+  },
+  "id": "ca50a05f-fbe5-4c0e-889d-4174d084bc73",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0xbBD7B847C6d0d0B5691518a363194D71426475F1",
+    "website": "https://www.everrise.com/",
+    "twitter": "https://twitter.com/everrise",
+    "telegram": "https://t.me/everriseofficial",
+    "youtube": "https://youtube.com/c/everriseofficial/",
+    "reddit": "https://reddit.com/r/EverRise",
+    "discord": "https://discord.com/invite/everrise",
+    "github": "https://github.com/everrise-ecosystem",
+    "facebook": "https://facebook.com/EverRiseToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0xbBD7B847C6d0d0B5691518a363194D71426475F1/logo.png"
+  },
+  "name": "EverRise Rewards",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "claimRISE",
+  "tags": [
+    "defi",
+    "staking",
+    "nft",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

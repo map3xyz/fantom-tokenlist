@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source."
+  },
+  "id": "c6fd9963-2d04-4f03-8ded-a3ec804f757a",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+    "website": "https://fantom.foundation/defi/",
+    "telegram": "https://t.me/Fantom_English",
+    "twitter": "https://twitter.com/FantomFDN",
+    "medium": "https://medium.com/fantomfoundation",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/fantom/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
+  },
+  "name": "Wrapped Fantom",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "WFTM",
+  "tags": [
+    "defi",
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
