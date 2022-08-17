@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TSHARE holders have voting rights (governance) on proposals to improve the protocol and future use cases within the Tomb finance ecosystem."
+  },
+  "id": "0737650f-d942-4ed1-a83e-6e25d1767216",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37",
+    "website": "https://tomb.finance/",
+    "twitter": "https://twitter.com/tombfinance",
+    "telegram": "https://t.me/tombfinance",
+    "coingecko": "https://coingecko.com/coins/tomb-shares/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37/logo.png"
+  },
+  "name": "TSHARE",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "TSHARE",
+  "tags": [
+    "governance"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

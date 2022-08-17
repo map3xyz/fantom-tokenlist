@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x94CcF60f700146BeA8eF7832820800E2dFa92EdA",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Wrapped Staked version of Hector Token"
+  },
+  "id": "03cc5351-f283-4d89-b63c-0b1156c5fa18",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0x94CcF60f700146BeA8eF7832820800E2dFa92EdA",
+    "website": "https://hector.finance",
+    "twitter": "https://twitter.com/HectorDAO_HEC",
+    "medium": "https://medium.com/@hectordao",
+    "whitepaper": "https://hector.finance/whitepaper",
+    "telegram": "https://t.me/hectorDAO",
+    "telegramNews": "https://t.me/hectordaoann",
+    "github": "https://github.com/Hector-DAO",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-staked-hec/",
+    "coingecko": "https://coingecko.com/en/coins/wrapped-hec"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0x94CcF60f700146BeA8eF7832820800E2dFa92EdA/logo.png"
+  },
+  "name": "Wrapped sHEC",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "wsHEC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
