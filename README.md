@@ -1,15 +1,15 @@
 
-# fantom Tokenlist
+# Fantom Tokenlist
 
-This is the Map3 Tokenlist for the fantom network.
+This is the Map3 Tokenlist for the Fantom network.
 
-You can find the Map3 metadata for the fantom network on [The Main Assets Repo](https://github.com/map3xyz/assets/tree/master/networks/fantom).
+You can find the Map3 metadata for the Fantom network on [The Main Assets Repo](https://github.com/map3xyz/assets/tree/master/networks/fantom).
 
-This repository is added as a submodule to the main assets repository. You can find the link here: https://github.com/map3xyz/assets/tree/master/networks/fantom/assets/fantom-tokenlist).
+This repository is added as a submodule to the main assets repository. You can find the link here: https://github.com/map3xyz/assets/tree/master/networks/fantom/assets/fantom-tokenlist.
 
-## Reading Data
+## Reading Data
 
-Map3 makes it easy to access the data about assets on the fantom network. 
+Map3 makes it easy to access the data about assets on the Fantom network. 
 
 You can read the data by self-hosting our Web API or sign up for our [Free Hosted Version](https://map3.xyz).
 
@@ -24,5 +24,5 @@ Found an issue with the data present? Just open a pull request to fix it that me
 ## Code of Conduct
 You can find our [Code of Conduct here](https://github.com/map3xyz/assets/tree/master/docs/CODE_OF_CONDUCT.md).
 
-## License
+## License
 MIT. See [LICENSE](LICENSE)
