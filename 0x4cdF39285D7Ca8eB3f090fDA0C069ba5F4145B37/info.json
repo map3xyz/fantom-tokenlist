@@ -7,6 +7,9 @@
     "en": "TSHARE holders have voting rights (governance) on proposals to improve the protocol and future use cases within the Tomb finance ecosystem."
   },
   "id": "0737650f-d942-4ed1-a83e-6e25d1767216",
+  "identifiers": {
+    "coinmarketcap": 16943
+  },
   "links": {
     "explorer": "https://ftmscan.com/token/0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37",
     "website": "https://tomb.finance/",

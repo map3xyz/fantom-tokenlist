@@ -7,6 +7,9 @@
     "en": "Wrapped Staked version of Hector Token"
   },
   "id": "03cc5351-f283-4d89-b63c-0b1156c5fa18",
+  "identifiers": {
+    "coinmarketcap": 16130
+  },
   "links": {
     "explorer": "https://ftmscan.com/token/0x94CcF60f700146BeA8eF7832820800E2dFa92EdA",
     "website": "https://hector.finance",
