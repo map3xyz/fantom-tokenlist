@@ -7,6 +7,9 @@
     "en": "Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source."
   },
   "id": "8008f0ff-f193-43c8-befb-4e5ca8c8c062",
+  "identifiers": {
+    "coinmarketcap": 10240
+  },
   "links": {
     "explorer": "https://ftmscan.com/token/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
     "website": "https://fantom.foundation/defi/",
