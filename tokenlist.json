@@ -1,6 +1,6 @@
 {
   "name": "@Map3/fantom-tokenlist",
-  "timestamp": "2022-08-17T09:12:35.025Z",
+  "timestamp": "2023-01-05T14:59:29.062Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -45,6 +45,16 @@
       "tags": [
         "defi",
         "stablecoin"
+      ]
+    },
+    {
+      "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+      "name": "Axelar Wrapped USDC",
+      "decimals": 6,
+      "symbol": "axlUSDC",
+      "tags": [
+        "stablecoin",
+        "wrapped"
       ]
     },
     {
@@ -210,10 +220,28 @@
       ]
     },
     {
+      "address": "0x8b1f4432F943c465A973FeDC6d7aa50Fc96f1f65",
+      "name": "Axelar",
+      "decimals": 6,
+      "symbol": "AXL",
+      "tags": [
+        "wrapped"
+      ]
+    },
+    {
       "address": "0x94CcF60f700146BeA8eF7832820800E2dFa92EdA",
       "name": "Wrapped sHEC",
       "decimals": 18,
       "symbol": "wsHEC",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0x9564fBfD3B3819D6Fb2DbC88C75E112400bE8F0C",
+      "name": "OWL",
+      "decimals": 18,
+      "symbol": "OWL",
       "tags": [
         "defi"
       ]
