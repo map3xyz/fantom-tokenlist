@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x9564fBfD3B3819D6Fb2DbC88C75E112400bE8F0C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "OwlDAO - Build the Best Casino Solution on Ethereum Networks."
+  },
+  "id": "15a80a9e-7000-4aab-9e97-e416a0dbf183",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0x9564fbfd3b3819d6fb2dbc88c75e112400be8f0c",
+    "research": "https://docs.owl.games/the-owl-token/tokenomics",
+    "website": "https://owldao.io",
+    "twitter": "https://twitter.com/OWLDAOio",
+    "telegram": "https://t.me/owlDAO",
+    "discord": "https://discord.com/invite/8MUcukEKnC"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0x9564fBfD3B3819D6Fb2DbC88C75E112400bE8F0C/logo.png"
+  },
+  "name": "OWL",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "OWL",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

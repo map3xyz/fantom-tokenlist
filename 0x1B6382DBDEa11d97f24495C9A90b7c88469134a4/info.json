@@ -1,0 +1,41 @@
+{
+  "active": true,
+  "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click."
+  },
+  "id": "1b645fdd-1651-46f7-983c-2a32d1fdbbaa",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+    "website": "https://axelar.network/",
+    "twitter": "https://twitter.com/axelarcore",
+    "github": "https://github.com/axelarnetwork",
+    "telegram": "https://t.me/axelarcommunity",
+    "coingecko": "https://coingecko.com/coins/axelar-usdc",
+    "docs": "https://docs.axelar.dev/",
+    "discord": "https://discord.com/invite/aRZ3Ra6f7D",
+    "forum": "https://community.axelar.network/",
+    "whitepaper": "https://axelar.network/axelar_whitepaper.pdf",
+    "reddit": "https://reddit.com/r/axelar",
+    "medium": "https://medium.com/@axelar-foundation",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/axlusdc/",
+    "blog": "https://axelar.network/blog",
+    "youtube": "https://youtube.com/@Axelarcore"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0x1B6382DBDEa11d97f24495C9A90b7c88469134a4/logo.png"
+  },
+  "name": "Axelar Wrapped USDC",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "axlUSDC",
+  "tags": [
+    "stablecoin",
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
