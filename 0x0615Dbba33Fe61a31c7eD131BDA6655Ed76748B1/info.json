@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x0615Dbba33Fe61a31c7eD131BDA6655Ed76748B1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ankr is building an infrastructure platform and marketplace for Web3-stack deployment"
+  },
+  "id": "3855d87d-0e62-4c64-9452-41714f141406",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0x0615dbba33fe61a31c7ed131bda6655ed76748b1",
+    "website": "https://ankr.com",
+    "twitter": "https://twitter.com/ankr",
+    "github": "https://github.com/Ankr-network",
+    "telegram": "https://t.me/ankrnetwork",
+    "docs": "https://ankr.com/docs/staking/overview",
+    "reddit": "https://reddit.com/r/Ankrofficial/",
+    "youtube": "https://youtube.com/@AnkrOfficial",
+    "whitepaper": "https://ankr.com/ankr-whitepaper-2.0.pdf",
+    "discord": "https://discord.com/invite/ankr",
+    "medium": "https://medium.com/ankr-network",
+    "coingecko": "https://coingecko.com/en/coins/ankr-network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0x0615Dbba33Fe61a31c7eD131BDA6655Ed76748B1/logo.png"
+  },
+  "name": "Ankr Network",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "ANKR",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
