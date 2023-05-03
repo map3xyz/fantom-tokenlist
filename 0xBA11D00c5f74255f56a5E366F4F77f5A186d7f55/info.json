@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Band Protocol is a cross-chain data oracle network that aggregates and connects real-world data and APIs to smart contracts."
+  },
+  "id": "05305165-6160-4e89-8a26-791c6d6ad557",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+    "research": "https://research.binance.com/en/projects/band-protocol",
+    "website": "https://bandprotocol.com",
+    "github": "https://github.com/bandprotocol",
+    "twitter": "https://twitter.com/BandProtocol",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/band-protocol/",
+    "coingecko": "https://coingecko.com/en/coins/band-protocol/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
+  },
+  "name": "Band Protocol",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "BAND",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

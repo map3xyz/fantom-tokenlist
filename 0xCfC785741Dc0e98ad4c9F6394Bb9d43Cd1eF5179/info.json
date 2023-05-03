@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xCfC785741Dc0e98ad4c9F6394Bb9d43Cd1eF5179",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ankrFTM represents your staked FTM and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrFTM grows daily in value, but never in number"
+  },
+  "id": "0108f475-0e8c-40da-9232-35b3d10c78cc",
+  "links": {
+    "explorer": "https://ftmscan.com/token/0xCfC785741Dc0e98ad4c9F6394Bb9d43Cd1eF5179",
+    "website": "https://ankr.com",
+    "twitter": "https://twitter.com/ankr",
+    "github": "https://github.com/Ankr-network",
+    "telegram": "https://t.me/ankrnetwork",
+    "docs": "https://ankr.com/docs/staking/overview",
+    "reddit": "https://reddit.com/r/Ankrofficial/",
+    "youtube": "https://youtube.com/@AnkrOfficial",
+    "whitepaper": "https://ankr.com/ankr-whitepaper-2.0.pdf",
+    "discord": "https://discord.com/invite/ankr",
+    "medium": "https://medium.com/ankr-network",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ankr-reward-bearing-ftm/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/fantom-tokenlist/master/0xCfC785741Dc0e98ad4c9F6394Bb9d43Cd1eF5179/logo.png"
+  },
+  "name": "Ankr Staked FTM",
+  "networkCode": "fantom",
+  "spam": false,
+  "symbol": "ankrFTM",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
